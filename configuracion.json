@@ -1,0 +1,9 @@
+{
+    "ruta_origen" : ["ruta1", "ruta2", "ruta3"],
+    "ruta_destino" : "98 box2",
+    "servidor_ip": "x.x.x.x",
+    "username_samba" : "user@domain.local",
+    "password_samba" : "passUser",
+    "shared_folder" : "Shared Folder"  
+
+}
