@@ -1,11 +1,14 @@
 {
-    "ruta_origen_revisadas" : ["ruta1","ruta2", "ruta3"],
-    "ruta_destino_revisadas" : "rutaDestinoRevisadas",
+    "ruta_origen_revisadas": [
+        "ruta1",
+        "ruta2",
+        "ruta3"
+    ],
+    "ruta_destino_revisadas": "rutaDestinoRevisadas",
     "servidor_ip": "direccionIPServidor",
-    "username_samba" : "usuarioDominio",
-    "password_samba" : "passwordADUser",
-    "shared_folder" : "Compartido Owncloud", 
-    "ruta_origen_aprobadas" : "ruta para facturas pendientes a aprobar",
-    "ruta_destino_aprobadas" : "ruta facturas revisadas y aprobadas"
-
+    "username_samba": "usuarioDominio",
+    "password_samba": "passwordADUser",
+    "shared_folder": "Compartido Owncloud",
+    "ruta_origen_aprobadas": "ruta para facturas pendientes a aprobar",
+    "ruta_destino_aprobadas": "ruta facturas revisadas y aprobadas"
 }
