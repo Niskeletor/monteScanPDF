@@ -52,6 +52,20 @@ Para dockerizar el script y ejecutarlo automáticamente:
 1. **Dockerfile**: Asegúrate de tener un `Dockerfile` configurado con todas las dependencias necesarias.
 2. **Crontab**: Programa la ejecución con `crontab` para que se ejecute diariamente a las 2 de la madrugada.
 
+## 🏯 Estructura
+
+```bash
+monteScanPDF/
+├─ Dockerfile
+│
+├─ README.md
+├─ app.py
+├─ ocr_utils.py
+├─ requirements.txt
+│ 
+└── configuracion.json
+```
+
 ## 🚀 Uso
 
 Ejecuta el script con:
